@@ -1,3 +1,2 @@
 streamlit
-websockets
-asyncio
+websockets==12.0
